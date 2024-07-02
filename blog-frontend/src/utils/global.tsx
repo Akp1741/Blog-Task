@@ -17,12 +17,6 @@ const globalMessages = {
         delete_confirm: 'Do you want to delete this Blog?',
     },
    
-   
-    
-    download_csv: {
-       users:"User List"
-    },
-    
 };
 
 export default globalMessages;
